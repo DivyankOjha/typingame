@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "typingame"
+    }
+  },
+  "defaultProject": "typingame",
+  "cli": {
+    "analytics": false
+  }
 }
